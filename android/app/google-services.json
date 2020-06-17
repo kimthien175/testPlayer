@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890424212628",
+    "firebase_url": "https://music-player-2e328.firebaseio.com",
+    "project_id": "music-player-2e328",
+    "storage_bucket": "music-player-2e328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890424212628:android:c2bec962d723aaaea74881",
+        "android_client_info": {
+          "package_name": "com.kyleplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890424212628-k8u3agvsjods2u3tuv8a42d19r7eesrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqD45-tmGIoeCcr9_y5Fj7TND49nwbPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890424212628-k8u3agvsjods2u3tuv8a42d19r7eesrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
