@@ -5,7 +5,7 @@
  * @format
  * @flow strict-local
  */
-
+import Player from './src/components/Player'
 import React from 'react';
 import {
   SafeAreaView,
@@ -27,9 +27,7 @@ import {
 class App extends React.Component {
   render(){
     return (
-      <View>
-        <Text style={{alignSelf:'center'}}>Hello World</Text>
-      </View>
+      <Player/>
     );
   }
 
